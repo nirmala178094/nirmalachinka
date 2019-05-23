@@ -12,7 +12,7 @@ namespace GitHub
         {
             int a = 10;
             int b = 12;
-            Console.WriteLine("the addition of two numbers" + a + b);
+            Console.WriteLine("the addition of two numbers" + a * b);
         }
     }
 }
